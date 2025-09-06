@@ -6,10 +6,9 @@ Este repositório reúne os termos técnicos mais utilizados em diversas áreas 
 
 Abaixo, você encontrará tabelas com os 30 termos mais relevantes por área da tecnologia, listadas em ordem alfabética. Cada tabela inclui o termo e sua definição.
 
+💡 **Dica: Use Ctrl + F para buscar rapidamente o que precisa.**
 
 ⭐ **Não se esqueça de marcar este repositório com uma estrela para apoiar e acompanhar futuras atualizações!**
-
-💡 **Dica: Use Ctrl + F para buscar rapidamente o que precisa.**
 
 
 ### Sumário
